@@ -1,0 +1,27 @@
+================================================================================
+      PHIẾU ĐÁNH GIÁ KẾT QUẢ THI MÔN LẬP TRÌNH PYTHON - ĐỀ 1 (9H45)
+================================================================================
+ Họ và tên thí sinh : Trần Hậu Quốc Khánh
+ Mã số sinh viên    : 2125110065
+ Lớp học            : CCQ2511B
+ Ngày giờ chấm thi  : 07/11/2026 14:49:50
+--------------------------------------------------------------------------------
+CÂU      | FILE         | ĐIỂM ĐẠT   | ĐIỂM TỐI ĐA  | GHI CHÚ ĐÁNH GIÁ
+--------------------------------------------------------------------------------
+Câu 1a   | Cau1a.py     | 0.50       | 0.50         | [PASS] Bắt nhập lại khi n ngoài [1;99] chuẩn xác.
+Câu 1b   | Cau1b.py     | 0.75       | 0.75         | [PASS] Hàm TongUocSo tính chuẩn (12->28, 6->12).
+Câu 1c   | Cau1c.py     | 0.75       | 0.75         | [PASS] Hàm S(n) tính lũy thừa chính xác (n=3 -> 32).
+Câu 2a   | Cau2a.py     | 1.00       | 1.00         | [PASS] Đếm ký tự thường và xử lý khi không có rất tốt.
+Câu 2b   | Cau2b.py     | 0.50       | 0.50         | [PASS] Nhận diện cả chuỗi đối xứng và không đối xứng đúng.
+Câu 2c   | Cau2c.py     | 0.50       | 0.50         | [PASS] Đổi chữ hoa đầu mỗi từ thành công (Lap Trinh Python).
+Câu 3a   | Cau3a.py     | 0.75       | 0.75         | [PASS] Nhập danh sách dừng khi gặp 0 và in đúng [10, -5, 8].
+Câu 3b   | Cau3b.py     | 0.75       | 0.75         | [PASS] Lọc và in đúng các số dương chẵn (loại số âm, số lẻ).
+Câu 3c   | Cau3c.py     | 0.50       | 0.50         | [PASS] Đếm số lần xuất hiện của k chính xác (k=5 ra 3 lần).
+Câu 4a   | Cau4a.py     | 1.50       | 1.50         | [PASS] Nhập và lưu cấu trúc từ điển máy tính hoàn chỉnh.
+Câu 4b   | Cau4b.py     | 0.50       | 0.50         | [PASS] Xóa máy tính có trong từ điển và báo khi không có.
+Câu 5a   | Cau5a.py     | 1.00       | 1.00         | [PASS] Khai báo lớp MonHoc, __init__ và thongtinmonhoc đầy đủ.
+Câu 5b   | Cau5b.py     | 1.00       | 1.00         | [PASS] Khởi tạo 2 đối tượng môn học và gọi thongtinmonhoc() chuẩn.
+================================================================================
+👉 TỔNG ĐIỂM: 10.00 / 10.0 ĐIỂM
+👉 XẾP LOẠI : XUẤT SẮC (A+)
+================================================================================
